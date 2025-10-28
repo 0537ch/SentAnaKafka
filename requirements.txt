@@ -1,0 +1,36 @@
+# Reddit API wrapper
+praw>=7.7.0
+
+# Apache Kafka Python client
+kafka-python>=2.0.2
+
+# Sentiment analysis
+vaderSentiment>=3.3.2
+
+# Web dashboard framework
+streamlit>=1.28.0
+
+# Data manipulation
+pandas>=1.5.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Database integration
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Enhanced visualizations
+plotly>=5.15.0
+
+# JSON handling (built-in, but listing for completeness)
+# json - Python standard library
+
+# Time handling (built-in, but listing for completeness)
+# time - Python standard library
+
+# OS operations (built-in, but listing for completeness)
+# os - Python standard library
+
+# Collections (built-in, but listing for completeness)
+# collections - Python standard library
