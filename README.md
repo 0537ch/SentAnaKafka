@@ -215,9 +215,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [VADER Sentiment](https://github.com/cjhutto/vaderSentiment) - Sentiment analysis tool
 - [Streamlit](https://streamlit.io/) - Data app framework
 - [Plotly](https://plotly.com/) - Interactive visualization library
-
-## 📚 Additional Documentation
-
-- [Database Setup Guide](docs/DATABASE_SETUP.md) - Detailed database configuration
-- [Architecture Overview](docs/ARCHITECTURE.md) - Technical architecture details
-- [API Reference](docs/API_REFERENCE.md) - Component API documentation
